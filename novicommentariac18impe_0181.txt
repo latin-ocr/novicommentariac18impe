@@ -1,0 +1,38 @@
+PER NVMEROS PRIMOS. 109
+
+set3 atque adeo ordo inter istas radices aeque abscon-
+ditus videtur ‚ ac inter ipsos numeros primos.
+
+„ Theorema.
+31. si numeri quadrati per quempiam diui-⁴
+sorem primum P diruidantur, resm'ua inde orta , ni<
+
+fi smt 0, in serie residuorum completa potestatibus
+parium exponentum respondent. ·
+
+Demonstratio.
+
+Sit pro diuisore primo P radix quaedam pri-¹
+
+mitiua α, v‘t haec progrcffio geometrica
+1, a, α’, α’, cs, (1⁵, α’, a⁷ etc.
+
+seriem refiduorum completam praebeat, in qua ornnes
+numeri diuisore minores occurrant. Sit iam xx qua-
+dratum quodcunque per P diuidendum, et r re·-
+fiduum ex diuisione radicis x ortum , vt fit
+xzm P -γ- r; ac fi r: 0, seu x. multiplum diui-
+soris P, etiam residuum ex quadrato xx natum etit
+z 0, quos casm, cum per se sint perspicui, hic
+non consideramus. At fi r fit numerus quicunque
+diuisore P minor, quia in serie refiduorum comple-
+ta certe continetur, ex certa quadam potestate ipsius
+a, quae sit αλ nascatur necesse est, tum autem refi-
+duum ex diuisione quadrati xx oriundum conueniet
+cum eo, *quod ex diuisione potestatis ast nascitur3
+ficque ex diuisione quadratorum alia residua resultare
+nequeunt , rhss quae ex potestatibus formae ast, hoc
+est, quarum exponentes sunt numeri parce, oriuntur.
+
+. 0 3 -, Coton.
+

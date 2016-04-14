@@ -1,0 +1,40 @@
+PER NVMEROS PRIMOS. , 133
+
+per numerum primum formae λ 114- 1 diuidantur ‚
+multitudo refiduorum diuertorum erit :z n, ideoque
+
+multitudo nonu-residuorum :- (λ - 1) n,
+
+DemonstratiO.
+
+Sit a radix primitiua pro diuisore primo
+2n÷ 1 , cuius ergo potestates omnia plane suppedi-
+tant refidua ‚ et quilibet numerus diuisore minor x
+erit refiduum certae potestatis am, vnde eius potestas
+χλ idem praebebit refiduum quod axm3 quare omnia
+refidua quaesita oriuntur ex hac progreffione geome-
+
+trica ι
+1, αλ, aff, aff, aa„ ...... ‹fin-¹³²·
+
+quoniam potestas sequens ιιλη per numerum primum
+2n÷1 diuisa iterum vnitatem relmquit, eaque
+est minima hoc praestan53 ex quo multitudo refi-
+duorum inde resultandum est z n, etcum multitu·
+do omnium numerorum diuisore minorum fit Ξλη,
+reliquorum ex serie refiduorum exclusorum multitu·-
+do erit :Q — 1) n.
+
+Coroll. 1.
+
+93. Quare fi (eries potestatum 1, αλ, 3λ, 4² etc.
+vsque ad (λ 10)* continuetur ‚ in ea semper totidem
+termini, quot exponens λ continet vnitates ‚ repe·
+flentur, qui per numerum primum λη-ξ- 1 diuifi
+idem refiduum relinquant. Totidem ergo erunt qui
+vnitatem relinquunt, ac fi vnifus radtx fit ’.τ-ν,
+reliquorum radices erunt
+
+ν’, r⁸‚' τ* . . . . . . νλ···.
+R a Coroll.
+

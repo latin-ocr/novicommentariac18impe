@@ -1,0 +1,41 @@
+ι ⁸6 RESOLVTIO AEQVAT lOle
+
+numero finiti, siue infiniti ,x erui queant, hic sum
+ostensurus.
+
+2. subtrahatur ista aequatio ab ipsa propofita
+generali, vt obtineatur haec:
+
+A(x'-a²)-÷-2 B(xy-ab)-i-C(y²-b²)÷2D(x-a)
+÷2E(y-h):0
+
+cuius singula membra praeter fecundum factorem
+habent vel ,κ’-α, vel y - b, at membrum secun·
+
+dum pluribus modis in duas partes resolui potest,
+quarum altera habeat factorem x -a, altera y—b‚
+
+xy—abzx( r—b)÷b(x-a) =y(x—a)÷a< r-b)
+
+vt autem ambae litterae x et y, parem rationem
+ineant, hac resolutione vtamurz
+
+2(xy-ab):(x—-a)(y—t-b) ÷(x-†-a)(y-b);
+quo facto aequatio nostra sequentem induet formam
+A (x- a)(x÷a)÷ B (αι’-α) (y4-b)÷ B (x÷a) (y -b)÷ C (y-b)(}‘†b)
+÷2D(x-a)÷2E<y-b):0.
+3. Consideretut nunc ratio quantitatum x-at
+et y—b tamquam data, ac statuatur
+
+{LI—2:42, ita vt fitz qx-aquy-bp‚
+
+qua ratione introducta nostra aequatio euadetz,
+Ap(x÷a)÷13p(y÷h)÷Bq(x÷a)-÷Cq(y÷b>÷2Dp÷2que
+
+ex quibus binis aequationibus vtramque quantitatem
+quaefitam x et y definire licebit. Quum enim poff
+flexior fit
+
+(x÷a)(Ap-i-Bq)÷(y÷b)(Bp†Cq)-1-2Dp†2Eq.-.0,'
+Puer„
+

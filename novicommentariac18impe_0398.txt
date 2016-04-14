@@ -1,0 +1,34 @@
+με DE PREssonE PoNDEffis
+Problema Generale.
+
+Quamcunque figuram habuerit basis, qua pon-
+dus plano incumbit , determinare pressionem in sm&
+gulis baseos elementis
+
+Solutia
+
+'rub-111. 40. Repraeszntet figura E Fef basin propo-
+Fig. 14· fitam, cuius centrum grauitatis sit in paucio G ,
+per quod ducti siut bini axes principales eiusdem
+figurae EG e ct FGf, quemadmodum in Meci-ia·-
+nicae loco citato sunt constituti. Deinde secundum prin-
+cipia ibidem stabilita ‚ quaerantur momenta inertiae
+respestu eorundem axium , quac scilicet reperiuntur,
+ss singula baseos elementa in quadrata distantiarum
+ab iisdem axibus multiplicentur. Denotct igitur A
+aream totius huiu's basis EFef et respcftu nixis
+Ee sit momentum inertiae 2- Aee respectu nutem
+asterius axis sit :Aff‚ tum vcro media directio
+preflionis totalis incidat in punctum O, cuius di-
+stantiae ab axibus principalibus fint 0P:p et
+Oqu. His praemissis, enumeremus areae quod-
+cunque elementum iu γ, pro quo vocentur coordi-
+natae G X: x et X Y :y‚ ex quibus ipsum areae
+'elementum fit dx. dy. lam quia G cst centrum
+grauitatis totius figurae, bina haec integralia du-
+plicata ssxd'xdy et sfy dx dy'per totam figuram
+‘extensa euanescunt. Deinde natura axium principu-
+lium in hoc consulit, vt haec *formula ssxydxdy
+flet totam figuram sumta etiam euanescat. Porro
+· ’ ² autem
+

@@ -1,0 +1,41 @@
+88 RESIDVA EX DIVIS. POTESTATVM
+
+12. Si pro eodem diuisore P: 7 tadici a alii
+vaieres tribuantur , series residuorum se habebunt vt
+sequitur:
+
+{Progn geom. ι, 2, 2², 2³, 2⁴, 2⁵, 2⁶, 2⁷, 2⁸, 2⁹ etc.
+Refidua 1‚2,4‚ x, 2, 4, 1, 2, 4, 1 etc.
+{progr· geom· Ῑ, 4, 4², 4¹2 4⁴2 4⁵, 4⁶, 4⁷⁴) 4.) 4⁹ etc·
+Refidua 1‚4, 2, 1, 4, 2, ι, 4, 2, 1 etc.
+
+7 Ι 9
+
+{Progn geom. 1, 5, 5²> 5²> ⁵⁴, 5⁵2 5⁶> 5 2 5 2 5 etc.
+Residua 1, 5, 4, 6, 2, 3, ι, 5, 4, 6 etc.
+
+ι3, Vt omnes variationes , quae in serie refi-
+duorum locum habere possunt, obtineantur , sufficit
+radici a omnes valeres diuisore P minores tribuifl03
+fi enirn loco a sumatur a÷ P, ex progreffione geo-
+metrica 1, a 4-- Ρ, (a -ὶ- P)'‚ (a -ι- P? etc. eadem re—
+fiduorum series recurrit, quae ex progreffione geo-
+metrica 1, α, 0², α’, α’ etc.
+
+14. Quemadmodum in residuis etiam nume*
+ros negatiuos immittimus (9) vt ea infra semissem
+diuisoris P deprimamus, ita etiam pro radice pro«
+greffionis geometricae α numeros negatiuos assumere
+licet ., ac turn habebitur:
+
+Progr. geom. ι, -a, 40², -a³‚ ÷a⁴, -a⁵,÷c1⁶‚ —a⁷etc.
+ressdua 1‚--oe‚ ξ, -Ὑ, ὃ, -ε, ζ,-η etc.
+
+ις, Sumta autem radice -α, eadem resldua
+oriuntur, ac si radix poneretur P -ας vnde patet
+pro casibus, quibus radix a semiffem diuisoris P
+superat , refidua ex casibus quibus est a <3P facilc
+
+colligi.
+16.
+

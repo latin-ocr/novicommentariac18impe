@@ -1,0 +1,53 @@
+SERIERVM GE NERE. 5 t
+
+Caeterum haec explicatio tantum locum habet pro
+notione summae ab Illustr. Bernoulli adhibitae, eo-
+
+que respedtu quod pro serie
+fin.z÷fin.(z÷v)÷fin.(z÷ 2v)—}-s1n.(z—³s- 3112) etc.
+
+dentur periodi post quas iidem termini recurrunt et
+quarum periodorum summae euanescunt ‚ quod qui‘
+dem pro casu ὐς-,ο locum non habet , nisi slmul
+firzzo. Quod fi igitur retineamus generalem
+
+expreffionem summae
+S - cos· (ῖς-ἑ wfflssssffiffl
+, pro casu v :z 0 et n z: 00 eadem-in hanc abibit
+
+S—fin.(z—;v)÷(2n÷13fin.(z-{—(n÷;)tv) - .-
+.- 2cos.{v —‚(n÷1)fin.z..00fin.z‚
+
+prorsus vti rei natura postulat. Similiter autem
+euinci potest, cur pro casu v z 0, expressio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fin.(z-——}—v)
+2s1n.;v
+
+rite fibi constare nequeat. Praeterea obseruari quo-
+que meretur, expressiones supra allatas pro seriebus
+infinitis finuum vel cofinuum , admittendas non effe
+pro cafibus v :- 2 m π denotante π circumferentiam
+circuli, per‘ se enim patet seriem
+
+fin.z÷fin·(2m71÷z)l÷-fin.(4m7t÷z)÷sin.(6m7r÷z)÷etc-⁴
+prorsus congruere cum hac
+
+fin. z -ι- fin. z -1- sm. z etc.
+
+ 
+
+tossz÷cofi(z-1-v)÷-cos.(z-÷-zv)-÷-cos.(z÷3v)etc. :-
+
+G 2 u.
+

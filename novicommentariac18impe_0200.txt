@@ -1,0 +1,37 @@
+128 RESIDVA EX DIVIS. POTESTATVM
+
+lu· crutre contigit Huic autem aiiud affine ferma-
+tius proposuit, quod etiam omnes numeri primi
+huius formae 8m-4— 3 in eadem forma xx÷ 2yy
+contineantur, ‚cuius demonstrationem ex hac specula-
+tione petere non licet, sequentem ergo ab amico
+mecum communicatam hic apponam.
+
+Theorema.
+
+85. Nullus numerus huius formae 2pp-qq‚
+fiquidem p et q smt numeri integ· {e primi, vl·
+{um admittit diuisorem siue huius formae 8m÷3
+fine huius 8 m - 3.
+
+Demonstratio.
+
+Si numerorum p et q ambo smt impares, nu·
+merus 2 pp — q q habebit formam 8 n -ὶ- ι , sin p
+fit par et q impar, formam habebit 8η- 13 sm autern
+p sit impar et q pai· :mn formaerit 2(pp—2rr)‚
+ideoque vel 2(8n-†-1) vel 2(8n-1); semiffis vero
+pp-2rr iterum in forma zpp-qq continetur,
+cum fit pp-2rrz2(p-÷-r)²-(p÷2r)², Hoc prae·
+misso fi forma 2pp-qq diuisorem haberet 8mss 3,
+per eundem diuisibilis effet numerus formae ενι-,ᾖ 1,
+quotusque ergo foret iterum formae εφη-ζ’ 3, atque
+minor diuisore3 quoniam p et q non solumdiuisore,
+fed etiam eius semisse minores statuere licet. Cum
+igitur forma 2pp-qq per quotum ideoque nume-
+rum minorem formae smss 3 eflet diuifibilis‚ vbi
+iterum p et q infra eius semissem deprimere licet,
+quotus denuo minor diuisore oriretur , et numeri p,
+
+et
+

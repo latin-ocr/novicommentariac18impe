@@ -1,0 +1,55 @@
+138 DE QVANriTATIBVs
+
+toris assumi oporteat, vt pro numeratote resultet
+series maxime conuergenS.
+
+4. Quodsi autem in denosninat‘ore datus ter-
+minorum numerus constituatur, numerator erit se-
+ries maxime conuergens‚ fi vnus pluresue eius ter-
+mini se ordine excipientes plane euanescant3 tum
+enim sequentes termini tam fient exigui, fi qui-
+dem fuerit x< 1, vt sine notabili errore reiici
+queant. Atque hic notari conuenit, si pro denomi-
+natore sumatur binomium 1 -oex, quemlibet nume-
+tatoris terminum ad nihilum redigi poss'e3 sin au-
+tem denominator statuatur trinomium , bini termini
+succeffiui numeratoris in nihilum redigi poterunt;
+terni vero et itit porro, fi pro denominatore qua-
+drinomium vel multinomium assumatur. Tum ve-
+ro etiam perspicuum est aduergentiam eo fore ma—
+iorem , quo longius numerator-is termini euanescen-
+tes ab initio distent; vnde sequentia problemata re-
+soluenda occurrunt.
+
+Problema Ι.
+
+5. Binomii potestatem (ι 4- x)'‘ transformare in
+
+talem expreffioncm maxime conuergentem:
+
+(14-xY2:¹4⁴²÷Bffi²÷cx³÷D.ff⁴÷Ex⁴4Fx⁶-⁴·0'⁶·
+ι ,-ακ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+denominatam> en. isteme binomh.
+
+S Ο l u t i o.
+Si potestas (1 -i- x)‘² in seriem euoluatur, ea·-
+que per denominatorem 1 —- α x multiplicetur , orie-
+
+tur sequens aequatio conficienda:
+011
+

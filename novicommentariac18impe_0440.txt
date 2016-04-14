@@ -1,0 +1,45 @@
+368 DE MOTV
+
+ad planum Eclipticae referre velimus, etiam hunc
+caium seorsim et omni cura enom-amus,
+
+Casus posterior quo orbita Planetae ad Ecli-
+pticam parumper inclinatur.
+
+22. Seruatis valoribns, quos casu praecedente
+pro x et y inuenintus , quandoquidem illi parum
+ob zz immutantur, propterea qumi z, vt valde
+paruum speetatur , incipiamus :1 tertia aequatione,
+vbi primo terminos duarum pluriumue dimensionum
+negligimus , itt vt habeamus hauc. aequationem:
+
+{dg-ff— mmzzo
+
+cuius integratio statim praebet z-:C sin. r existente
+
+drzmdt‚ vbi manifesto , angulus r exprimit ar-
+
+gumentum latitudinis Planctae medium, quod reperi-
+
+tur , fi a loco medio planetae in orbita , locus nodi
+
+ascendentis subtrahatur. Ex quo quum linea nodo-
+
+rum etiam quiescat ‚ manifestum cst vtique effe de-
+dr
+
+berc a—rzm· Porro autern coefficicns constins con·
+
+venit cum inclinatione orbitae Plinetae ad Eclipti-
+cam, seu potius eius tangente quae fi ponatur Ξῖ,
+habebimus pro hac prima approximatione zzzism. r.
+
+23. Quodsi iam in terminis sequentibus mino·
+tibus loco z iste valor substituatur ‚ simulque pro x
+et y valores inuenti scribantur, ex his terminis
+orietur series certorum sinuum ‚ quorum s1 quilibet
+suerit z: K fin. ω existente dm z: μ dt inde redun-
+
+dabit similis terminus in valorem z, qui fi statua·
+tur
+

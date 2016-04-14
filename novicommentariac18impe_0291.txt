@@ -1,0 +1,36 @@
+DE NOVA SPECIE MINIMI. 219
+
+ergo tertius casus superest, qui accuratiorem inuesti-
+gationem postulat, vnde quidem insuper excludi con-
+'venit casim, quibus formula Β B——A C est nume—
+rus quadratus , et ambo faetores adeo rationales eua-
+dunt , tum enim valor formulae propositae adeo ad
+nihilum redigi poterit, ita vt quaestio minimi hic
+ne locum quidem habeat.
+
+2. Soli ergo nobis relinquuntur casus ‚ quibus
+numerus BB— A G est numerus pofitiuus sed non
+quadratus ‚ cuiusmodi est ista formula: mxx-nyy,
+denotantibus litteris m et n numeros integros post--
+riuos , eiuffimodi tamen vt non vterque fit quadra-
+tus ‚ tum enim euidens est istam formulam ad ni-
+hilum reduci non poffe ‚ nifi tam x quam y eua-
+nescat , quem casum tamen vtpote obuium excludi
+oportet. Cum ergo haec formula mx x —nyy ad
+nihilum redigi se non patiatur, quaestio fine du-
+bio notatu digna est censenda ‚ qua litterarum x et
+y ii valores in integris quaeruntur, quibus ipsa fot-
+mula m x² -— ny² minimum omnium adipiscatur va-
+lorem. Si alter numerorum m et n vnitati aeque-
+tur, sempcr formulam ad vnitatem vsque deprime-
+re licebit, qui certe est minimus valor cyphra ex·
+cepta. Si enim fuerit m: 1 ex Theoremate Pellia÷
+no notissimo constat, semper effici pofl‘e xx—nyy:1‚
+flue x z V (nyy —÷- 1) , dummodo n non suerit nu-
+merus quadratus, atque adeo hoc non' solum vnico
+modo praestari potest , sed etiam infinitis , quemad-.
+modum iam ab ipso Pellio est demonstratum. Sin
+autem alter numerus n vnitati aequetur, formula
+
+E e 2 m π’
+

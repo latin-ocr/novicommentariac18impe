@@ -1,0 +1,37 @@
+294 DE PREssmNE PONDER1S
+
+Solutia
+
+Deuotet G preffionem totalem corporis incum-
+beatis, et resta ex eius centro grauitatis in planum
+perpendiculariter demissa, incidat in punctum O, ac
+sumtis pro arbitrio binis axibus Α Β ac A C inter
+se normalibus ‚ ad eos ex O agantur perpendiculares
+O F et O G , vocenturque A F :tf et A G :g ‚
+tum vero pro puncto basis quocunque Μ ponantur
+coordinatae A Χ z x et X M Ξ A Y :y , ipsa
+autem press'io quaesita in puue’to M vocetur z z,
+modo autem vidimus, poui oportere Δτῑωιυι-βχ-ι-Ὑχ.
+Quum autem haec preffio z respoudeat elemento
+basis M m cuius areola ,τ- dxdy, ipsa prestio quam
+haec areola sustinet,‘ erit zdx dy, cuius integrale
+ob geminam variabilem x ety bis sumtum ‚ pres-
+fioni totali hoc est ponderi G aequale statui debet ,
+hoc autem integrale duplicatum more recepto reprae-
+sentemus per sszdxdy, ita vt effe debeat sszdxdy:G
+ideoque loco z eius valore substituto habebimus hanc
+aequationem:
+
+assdxdy-l-ssffxdxdy—l-vssydxdyzG.
+
+10. Hac aequatione autem effeetus press'ionis
+nond-um exhauritur, sed insuper necesse est, vt
+etiam summa omnium momentorum Elementarium
+respectu cuiusuis axis , aequetur momento prestionis
+totalis G iu puncto O applicatae, respectu eiusdem·
+axis; sufficit autem hanc aequalitatem pro binis
+tantum axibus AB et AC constituisse ‚ quandoqui-
+
+dem demonstratumesp eam ad omnes axes vtcunque
+assum-
+

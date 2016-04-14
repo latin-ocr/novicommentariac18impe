@@ -1,0 +1,36 @@
+1 12 RESIDVA EX DIVIS. POTESTATVM
+
+existente a radice primitiua pro diuisore primo P';
+vnde patet , fi exponens λ fuerit numerus ad P — 1
+primus, seriem reslduorum fore completam3 at fi
+exponens λ ad P— 1 non fit primus , ac maximus
+eorum communis diuisor fuerit :d, tum vtique in
+refiduis non omnes numeri occurrent , sed tot tant
+tum , vt eorum multitudo s1t ΣΞ , cu'ius ratio
+ex haetenus allatis satis est manifesta. Sed antequam
+altiores potestates accuratius scrutemur ‚ quasdam in·-
+
+fignes proprietates circa residua quadratorum expli-
+caffe iuuabit.
+
+Theorema.
+
+5¹7. Diuisore primo pofito Pzzn÷ 1 in
+refiduis quadratorum occurret numerus - 1 {eu 271,
+quoties n fuerit numerus par; sm autem n sit nu-
+merus impar ‚ tum — 1 seu 2 n certe non reperie-
+tur in residuis, sed erit non- refiduum.
+
+Demonstratio.
+
+Cum progressio geometrica ι, α’, a⁴‚ α’, α’ etc.
+omnia producat residua quadratorum , euidens est in
+ea occurrere terminum an fi quidem n s1t numerus
+par, at supra vidimus potestatem a⁷² [emper dare
+resrduum - 1 seu 2 ης ex quo manifestum est, quo-
+ties n fuerit numerus par, toties in residuis qua-
+dratorum. reperiri -- 1 seu 2n, contra vero fi n
+suprit impar, 2 n seu - 1 erit non-renduum.
+
+Coroll.
+

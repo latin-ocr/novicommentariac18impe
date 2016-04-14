@@ -1,0 +1,40 @@
+«τῦ RESIDVA Ex D1v184POTES‘rATVM
+
+Problema.
+69. Si omnes numeri cubici 1, 2⁸3 3⁹, 4‘ etc.
+per numerum quemcunque primum P diuidantur,
+inuestigare indolem xesiduorum„ quae inde nascentur.
+
+Solatia
+
+Sit a radix primitiua respessu diuisoris primi
+P, et cum progressio geometrica x, α, α’, α’, a⁴etc.
+seriem residuorum completam exhibeat , quilibet nu-
+merus x per P diuisus ide-m dabit residuum , quod
+quaepiam potestas ipsluS a quae fit αλ. Hinc eius
+numeri cubus a? idem dabit residuum quod potestas
+α’*λ vnde ex cubis eadem nascentur residua . atque
+ex progressique geometrica ⁴.
+
+3 ᾗ 9 ¹82 8⁵
+1,a‚a‚a‚a ,a etc.
+
+ac sumto λ ita wt 3λ sit vel P- 1 vel eius mul-
+tiplum3 potessas αθ* mitatem relinquet. Quare st
+pro λ minimus numerus accipiatur ‚ cuius triplum
+sit pet P·- ι’ diuisibile, numerus λ simul multitu-
+dinem omnium residuorum diuersorum ‚ quae ex di·
+visione cuborum resultare poss‘unt ‚ indicabit.
+
+Cum iam omnis numerus primus fit vel for-
+mae 3η -ὶ- 1 vel 3 η-ι- 2, pro Vtraque sotma iu·
+dicium seorsim est instituendum.
+
+Ι. Sit ergo Pzan÷ 1, et quia P- 1:3⁷1,
+fiet λ :n‚ et residua cuborum omnia ex hac pro-
+greffione geometrica nascentur:
+
+ι, 0³, α’, a’ ....... a'''-'
+
+quia
+

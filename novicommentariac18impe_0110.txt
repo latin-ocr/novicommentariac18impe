@@ -1,0 +1,73 @@
+38 OBSERVATIONES DE SlNGVLARl
+
+arithmetice progredientium, conflantur; veniam me
+facile impetraturum existimaui ‚ sn ea quae de hoc
+argumento meditata habui euulgauerim‚ licet cum
+inuzntis tantorum virorum vix comparari mereantur.
+
+2. Theorema 1. Propostta progreffione sinuum,
+pro arcubus arithmeticam progreffionem cotfiituentihus
+fin.z÷-s1n.(z÷v)÷s1n (z÷2v)†s1n.(z÷3¹v)÷... ÷s1n.(z†nv)‚
+eius stamma erit
+
+coss(z-—;v)-cofi(z÷(n÷;}v) .— fin.(z÷;nv>fin.'²-3:¹ v
+
+..—
+
+2sm.;v fin.÷v
+
+Demonstratio.
+
+Ponatur summa progreffionis propofitae :S
+et multiplicando vtrinque per 2 cos. v prodibit:
+
+ascossvzzfin.zcos.v†2 [ΝΜΖ-μυ )c0s.v÷2s1n (2-1- 2v)cos v...
+-ι- 2 sm (z-÷*n‹v)cos.v:
+:fin.(z-v)÷fin z÷2fin.(z÷v)† 2 fin* (z†2v) . . . .
+÷2sm.(z†(n- 1)v)-}-fin.(z÷nv)† fin.(z† (²1÷1)v),
+ex quo deducitur
+2 S (1-cos v):sm ,z-sm.(z-v)÷fin.(z-} nv)-fin. (z÷(n÷1 γυ),
+hincque
+cos (z-ng-cofi(z÷(n÷;)v) fin.(z÷; n v)fi n.; (γι-μ 1)v
+2 sm. ξ v - Ξ sm. {v ⁸
+
+Idem vero et hoc modo demonstrari potest . §multi-
+cetur progreffio nostra per 2s1n.v‚ vt prodeat
+
+2 S sm. v::2fin.zfin.v÷2ssn.(z÷v)fin.v÷ 2fin.(z÷2¹v)f1n v
+. . . -ι- 2sm.(z÷nv)fin.v
+ε cofi (z ev) 4- cos. z-cos. (z-1-nv)-cos.(z÷(n÷ Ἇῗέε
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+·-.·-
+
+.—
+—o
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
